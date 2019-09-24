@@ -1,0 +1,25 @@
+{
+  "name": "adapt-courseLogo",
+  "version": "1.0.2",
+"framework": ">=2.0.18",
+  "authors": [
+    "Ailiniyazi Maimaiti <uyghurbeg@outlook.com>"
+  ],
+  "description": "this is a plugin to setup a logo for course",
+  "main": "",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/uyghurbeg/adapt-courseLogo.git",
+  "displayName" : "Logo",
+  "extension" : "logo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
