@@ -6,7 +6,7 @@
     "Ailiniyazi Maimaiti <uyghurbeg@outlook.com>"
   ],
   "description": "this is a plugin to setup a logo for course",
-  "main": "",
+  "main": "js/myLogo.js",
   "keywords": [
     "adapt-plugin",
     "adapt-extension"
