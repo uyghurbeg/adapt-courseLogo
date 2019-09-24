@@ -11,6 +11,9 @@
     "adapt-plugin",
     "adapt-extension"
   ],
+  "scripts": {
+  "adaptpostbuild": "/scripts/postbuild.js"
+},
   "license": "MIT",
   "homepage": "https://github.com/uyghurbeg/adapt-courseLogo.git",
   "displayName" : "Logo",
