@@ -1,8 +1,9 @@
-//course.json
     "_logo": {
         "_isEnabled": true,
         "_graphic": {
-            "src": "adapt/css/assets/logo.png",
-            "_alt": "Company Logo"
+            "alt": "haha",
+            "src": "course/en/assets/logo.png",
+            "height": 35,
+            "width": 125
         }
     }
