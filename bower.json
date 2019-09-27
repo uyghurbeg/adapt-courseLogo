@@ -1,28 +1,16 @@
 {
   "name": "adapt-courseLogo",
-  "version": "1.0.2",
-"framework": ">=2.0.18",
-  "authors": [
-    "Ailiniyazi Maimaiti <uyghurbeg@outlook.com>"
-  ],
-  "description": "this is a plugin to setup a logo for course",
-  "main": "js/myLogo.js",
+  "version": "1.0.0",
+  "framework": ">=2.0.18",
+  "homepage": "https://github.com/uyghurbeg/adapt-courseLogo",
+  "displayName" : "Couse Logo",
+  "extension" : "logo",
+  "description": "An Adapt extension for adding a custom logo to an Adapt course",
+  "main": "/js/adapt-courseLogo.js",
   "keywords": [
     "adapt-plugin",
     "adapt-extension"
   ],
-  "scripts": {
-  "adaptpostbuild": "/scripts/postbuild.js"
-},
-  "license": "MIT",
-  "homepage": "https://github.com/uyghurbeg/adapt-courseLogo.git",
-  "displayName" : "Logo",
-  "extension" : "logo",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "license": "GPLv3",
+  "targetAttribute": "_logo"
 }
