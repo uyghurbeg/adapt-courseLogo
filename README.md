@@ -16,4 +16,5 @@ Example: in *course.json* :
 
 Screenshot:
 ![enter image description here](https://github.com/uyghurbeg/adapt-courseLogo/blob/master/screenshot.png?raw=true)
+
 This plugin is modified from [adapt-navigationLogo](https://github.com/cgkineo/adapt-navigationLogo)
