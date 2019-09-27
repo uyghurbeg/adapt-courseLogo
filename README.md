@@ -4,7 +4,7 @@ This is an extension to set up custom logo, according to the width and height of
 
 Example: in *course.json* : 
 
-    "_logo": { "_isEnabled": true, "_graphic": { "alt": "haha", "src": "course/en/assets/logo.png", "height": 35, "width": 125 } }
+    "_logo": { "_isEnabled": true, "_graphic": { "alt": "My Alt Text", "src": "course/en/assets/logo.png", "height": 35, "width": 125 } }
 
 Screenshot:
 ![enter image description here](https://github.com/uyghurbeg/adapt-courseLogo/blob/master/screenshot.png?raw=true)
